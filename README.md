@@ -183,18 +183,18 @@ Potential improvements identified during development:
 
 ## 📞 Contact Information
 
-**Student**: **Zahabia Ahmed**  
-**Course**: **AI and Data Science**  
-[**GitHub**]( https://github.com/Zahab163)
-[**Facebook**](https://www.facebook.com/share/1KBwSz91no/)
-[**Instagram**](https://www.instagram.com/zahabiaahmed?igsh=MXkwNzkzdGJsMzJqOA==)
-[**YouTube**](https://www.youtube.com/@ZahabiaAhmed)
-[**X-Twitter**](https://x.com/AhmedZahabia?t=yAAjSTYTwRRQsXCeomBMuQ&s=08)
-[**WhatsApp**](+923323924734)
-[**Gmail**](zahabia0ahmed@gmail.com)
-[**Gmail2**](bintesahmed8@gmail.com)
-**Zoom**: **Zahabia Ahmed**
-**Teams**: **Zahabia Ahmed**
+* **Student**: **Zahabia Ahmed**  
+* **Course**: **AI and Data Science**  
+* [**GitHub**]( https://github.com/Zahab163)
+* [**Facebook**](https://www.facebook.com/share/1KBwSz91no/)
+* [**Instagram**](https://www.instagram.com/zahabiaahmed?igsh=MXkwNzkzdGJsMzJqOA==)
+* [**YouTube**](https://www.youtube.com/@ZahabiaAhmed)
+* [**X-Twitter**](https://x.com/AhmedZahabia?t=yAAjSTYTwRRQsXCeomBMuQ&s=08)
+* [**WhatsApp**](+923323924734)
+* [**Gmail**](zahabia0ahmed@gmail.com)
+* [**Gmail2**](bintesahmed8@gmail.com)
+* **Zoom**: **Zahabia Ahmed**
+* **Teams**: **Zahabia Ahmed**
 
 
 
