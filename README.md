@@ -205,7 +205,7 @@ Potential improvements identified during development:
 - **S.M.I.T** for providing the learning platform and resources
 - **Open-source community** for the Python libraries and tools used
 - **Dataset providers** for the real-world income data
-- **Zahabia Ahmed** sound like give self credit ( Deserved for the completion and survival). Keep going Zahabia there's always a work in pending and in progress. Wish me Luck!
+- **Zahabia Ahmed** sound like giving self credit ( Deserved for the completion and survival). Keep going Zahabia there's always a work in pending and in progress. Wish me Luck!
 ---
 
 <div align="center">
